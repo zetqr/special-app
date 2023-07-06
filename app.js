@@ -3,5 +3,6 @@ $(function(){
     let pricesBlock = document.querySelector('.prices');
     pricesBlock.style.backgroundColor = 'green';
     error code:
-    error code # 2
+    error code
+
 });
